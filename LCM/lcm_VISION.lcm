@@ -1,0 +1,6 @@
+package cerberus_lcm;
+
+struct VISION
+{
+    int8_t id;
+}

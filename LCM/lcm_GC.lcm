@@ -1,0 +1,6 @@
+package cerberus_lcm;
+
+struct GC
+{
+    int8_t id;
+}

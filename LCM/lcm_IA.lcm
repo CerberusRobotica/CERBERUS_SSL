@@ -1,0 +1,7 @@
+package cerberus_lcm;
+
+struct IA
+{
+    int8_t id;
+    double speed;
+}

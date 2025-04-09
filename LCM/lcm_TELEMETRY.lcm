@@ -1,0 +1,7 @@
+package cerberus_lcm;
+
+struct TELEMETRY
+{
+    int8_t id;
+    double voltage;
+}
